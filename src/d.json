@@ -1,0 +1,27 @@
+[
+  { "id": 1, "type": "text", "question": "what is ur name?" },
+  {
+    "id": 2,
+    "type": "select",
+    "question": "gender",
+    "options": ["male", "female"]
+  },
+  {
+    "id": 4,
+    "type": "dropdown",
+    "question": "select your values",
+    "options": ["social", "science", "maths"]
+  },
+  {
+    "id": 3,
+    "type": "multi",
+    "question": "select your subjects",
+    "options": ["english", "maths", "science"]
+  },
+
+  {
+    "id": 5,
+    "type": "file",
+    "question": "please upload the file"
+  }
+]

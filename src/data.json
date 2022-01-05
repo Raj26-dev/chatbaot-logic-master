@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "type": "select",
+    "question": "gender",
+    "options": ["male", "female"]
+  },
+  {
+    "id": 2,
+    "type": "multi",
+    "question": "select your subjects",
+    "options": ["english", "maths", "science"]
+  },
+  { "id": 3, "type": "text", "question": "what is ur name?" },
+  { "id": 4, "type": "text", "question": "what is ur Last Name?" },
+
+  {
+    "id": 5,
+    "type": "dropdown",
+    "question": "select your values",
+    "options": ["social", "science", "maths"]
+  },
+  {
+    "id": 6,
+    "type": "multi",
+    "question": "select your subjects",
+    "options": ["english", "maths", "science"]
+  },
+
+  {
+    "id": 7,
+    "type": "file",
+    "question": "please upload the file"
+  }
+]
